@@ -1,7 +1,7 @@
 name: Infinite Fate
 favicon: null
-layout_spectrum: 0.8086440472397953
-typography_spectrum: 0.04555507376790047
+layout_spectrum: 1
+typography_spectrum: 0.09575
 title: Infinite Fate
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.44363991008140147
-  lightness: 0.7341580730862916
+  lightness: 0.3125
   saturation: 0.7765595614910126
-  rhythmicContrast: 0.403750934638083
+  rhythmicContrast: 0.75
 purpose: []
