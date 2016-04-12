@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Infinite Fate]]></title>
         <description><![CDATA[Infinite Fate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/infinite-fate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 14:08:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 15:26:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/infinite-fate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On Prayers and World Peace]]></title>
+            <description><![CDATA[<article><h1>On Prayers and World Peace</h1><p>If God gave us freedom, and He doesn't directly intervene with what is going on here on Earth, then what's the use of prayers? What's the use of asking God to make the storm miss our place, to stop the volcano from spewing out lava and ashes, and to make our work better and more tolerable?</p></article>]]></description>
+            <link>https://thegrid.ai/infinite-fate/on-prayers-and-world-peace/index.html</link>
+            <guid isPermaLink="false">6c28a1d8-ffd8-4880-b32b-0389f11fa72a</guid>
+            <pubDate>Tue, 12 Apr 2016 15:25:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>
 Q: Why is it that no matter how hard I try, I still fail?
 A: </p>]]></description>
-            <link>undefinedq-why-is-it-that-no-matter-how-hard-i-try-i-still-fail-a/index.html</link>
+            <link>https://thegrid.ai/infinite-fate/q-why-is-it-that-no-matter-how-hard-i-try-i-still-fail-a/index.html</link>
             <guid isPermaLink="false">14ae7a34-f249-4733-b325-8d9851d7a714</guid>
             <pubDate>Tue, 12 Apr 2016 14:08:37 GMT</pubDate>
         </item>
