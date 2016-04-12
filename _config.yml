@@ -1,0 +1,28 @@
+name: Infinite Fate
+favicon: null
+layout_spectrum: 0.8086440472397953
+typography_spectrum: 0.04555507376790047
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.44363991008140147
+  lightness: 0.7341580730862916
+  saturation: 0.7765595614910126
+  rhythmicContrast: 0.403750934638083
+purpose: []
