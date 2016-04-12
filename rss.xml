@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Infinite Fate]]></title>
+        <description><![CDATA[Infinite Fate]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 14:08:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>
+Q: Why is it that no matter how hard I try, I still fail?
+A: </p>]]></description>
+            <link>undefinedq-why-is-it-that-no-matter-how-hard-i-try-i-still-fail-a/index.html</link>
+            <guid isPermaLink="false">14ae7a34-f249-4733-b325-8d9851d7a714</guid>
+            <pubDate>Tue, 12 Apr 2016 14:08:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
